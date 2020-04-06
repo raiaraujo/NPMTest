@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cool-images": "^1.0.3"
+    "cool-images": "^1.0.3",
+    "moment": "^2.24.0"
   }
 }
